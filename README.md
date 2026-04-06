@@ -1,0 +1,2 @@
+# Hangman-Game-Word-guessing-with-input-validation-limited-chances-and-hints
+The Hangman Game is a simple text-based Python application designed to demonstrate fundamental programming concepts through an interactive word-guessing game. In this project, the computer randomly selects a word, and the player must guess it one letter at a time within a limited number of chances. A hint is provided to assist the player.
